@@ -1,0 +1,34 @@
+Ecommerece
+
+1. Add allauth default app
+2. work on home page which shows list of dogs in listview
+3. product page which shows desciption when clicked on each item of home page
+4. adding product to the cart(both multiple same or different)
+5. removing fom the cart
+6. install django crispy-forms to improve UI
+7. Correct Pagination [1.07]
+8. Updated Cart number of items while adding and removing[1.10]
+		8.1. Creating a Cart Template tag in Core template tag
+		8.2. Load the template in the home page where number of items in the cart is shown
+9. Displaying order summary using table from mdb site
+	9.1. Showing total price both dicounted and non one
+	9.2. Showed Saved amount
+	
+	Error: CHeck discount and undicounted price
+	
+10. add or remove item in order summary:
+	Error: plus minus sign not displaying and trash can too
+	
+11. Checkout form
+	Using Django form:
+	pip install django-country
+	
+12. Stripe/Paypal method integration in payment method.
+      Error: not proceeding fter final payment
+
+13. Work with forms.py--a shortcut method to access form
+14. display image for all products on homepage
+15. Coupon added succesfully
+16. Add Refund module and various shipping status in admin
+17. Default Adress
+18, Saving card number
